@@ -1,0 +1,16 @@
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\bin\Debug\net5.0\Challenge1.exe
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\bin\Debug\net5.0\Challenge1.deps.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\bin\Debug\net5.0\Challenge1.runtimeconfig.dev.json
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\bin\Debug\net5.0\Challenge1.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\bin\Debug\net5.0\Challenge1.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.csproj.AssemblyReference.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfoInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.AssemblyInfo.cs
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\refint\Challenge1.dll
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.pdb
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\Challenge1.genruntimeconfig.cache
+C:\Users\Sabrina\OneDrive\Desktop\C#\Challenge1\obj\Debug\net5.0\ref\Challenge1.dll
